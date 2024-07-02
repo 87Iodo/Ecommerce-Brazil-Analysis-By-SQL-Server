@@ -89,7 +89,7 @@ Questions:
 Different queries are set as parameters in the procedure with exception built in to handle wrong parameter name. Addtional statements are added to ensure the view is droppped if it already exists to avoid conflicts.
 
 ![image](https://github.com/87Iodo/Shopee-Brazil-Analysis-By-SQL-Server/assets/143507039/0fd86685-b694-4c50-a431-c96c4c0acf88)
-![image](https://github.com/87Iodo/Shopee-Brazil-Analysis-By-SQL-Server/assets/143507039/6949618d-d49e-49ea-9458-c45688aa23ad)
+![image](https://github.com/87Iodo/Ecommerce-Brazil-Analysis-By-SQL-Server/assets/143507039/3f5e9ac7-240e-4fea-9eed-0b35b7747884)
 
 
 ### Executing Procedure
