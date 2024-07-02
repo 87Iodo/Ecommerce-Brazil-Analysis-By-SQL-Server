@@ -80,6 +80,9 @@ Questions:
 10. What are the patterns in repeat purchases and customer loyalty?
 ![image](https://github.com/87Iodo/Shopee-Brazil-Analysis-By-SQL-Server/assets/143507039/96cc07e6-5e54-47f0-85af-464b1d7edaa3)
 
+11. What are the top 3 most popular products for each product category?
+![image](https://github.com/87Iodo/Ecommerce-Brazil-Analysis-By-SQL-Server/assets/143507039/d32af235-9642-4277-9575-58f8e46a563e)
+
 
 ### Part 3: Putting Quaries into A Procedure
 
