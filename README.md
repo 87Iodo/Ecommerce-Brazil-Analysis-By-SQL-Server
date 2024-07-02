@@ -7,7 +7,7 @@
 - [Tools](#tools)
 - [Process](#process)
 - [Part 1: Adding New Table](#part-1-adding-new-table)
-- [Part 2: Writing 10 Queries to Extract Information and Insights](#part-2-writing-10-queries-to-extract-information-and-insights)
+- [Part 2: Writing 11 Queries to Extract Information and Insights](#part-2-writing-11-queries-to-extract-information-and-insights)
 - [Part 3: Putting Quaries into A Procedure](#part-3-putting-quaries-into-a-procedure)
 - [Executing Procedure](#executing-procedure)
 - [Limitations](#limitations)
@@ -44,7 +44,7 @@ The product category description in the dataset is in Portuguese. A table of Eng
 ![image](https://github.com/87Iodo/Shopee-Brazil-Analysis-By-SQL-Server/assets/143507039/3b584ddf-6ab7-4e3c-9140-0cb8189651b9)
 
 
-### Part 2: Writing 10 Queries to Extract Information and Insights
+### Part 2: Writing 11 Queries to Extract Information and Insights
 
 Few techniques are used to answer these questions including CTE, JOIN, DATEDIFF, CASE, VIEW, Variables and subquery.
 
